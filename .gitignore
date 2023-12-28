@@ -1,0 +1,90 @@
+# Dependency directories
+node_modules/
+
+
+
+# Build artifacts
+build/
+dist/
+out/
+*.log
+
+# IDE and text editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# macOS system files
+.DS_Store
+
+# Windows Thumbs.db files
+Thumbs.db
+
+# npm debugging logs
+npm-debug.log*
+
+# Yarn logs
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.svscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Jest test results
+/coverage/
+
+# Next.js build output
+/.next/
+
+# Gatsby files
+/.cache/
+/public/static/
+
+# React Storybook
+/storybook-static/
+
+# macOS folder attributes
+.AppleDouble
+._*
+
+# Android build output
+/android/
+/build/
+/captures/
+
+# iOS build output
+/ios/
+/build/
+*.ipa
+*.xcarchive
+
+# Gradle files
+.gradle/
+/captures/
+
+# Android Studio
+/.externalNativeBuild/
+
+# IntelliJ
+/.idea/
+/*.iml
+
+# Compiled Java classes and JAR files
+*.class
+*.jar
+
+# Compiled Python files
+*.pyc
+
+# Log files
+*.log
+
+# Windows-specific files
+desktop.ini
+Thumbs.db
